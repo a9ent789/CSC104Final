@@ -8,19 +8,29 @@
 	border-radius: 45px;
 	margin: 10px;
 	box-shadow: 0px 5px 10px 5px #003;
-	background-color:aliceblue;
-	vertical-align: middle;
+	background-color: aliceblue;
+	
 	
 }
-/*This is specifically for the icon that I don't have yet, but will someday*/
+/*This is specifically for the icon*/
 .icon{
-	width: 10%;
+	width: 30%;
+	margin: 1%;
+	float: left;
+	margin-left: 1%;
+	padding-right: 0%;
 }
 
+/*This is all the settings to keep the email in the correct place*/
+.email{
+	text-align: left;
+	font-size: 50px;
+	margin-bottom: 3%;
+	margin-top: 3%;
+}
 /*This is to keep the header in the center and the icon in the left*/
 h1{
-	font-size: 50px;
-	margin-right: 20%
+	
 }
 
 h2{

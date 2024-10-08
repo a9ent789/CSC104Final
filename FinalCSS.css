@@ -7,22 +7,37 @@
 	border: 5px solid black;
 	border-radius: 45px;
 	margin: 10px;
+	box-shadow: 0px 5px 10px 5px #003;
+	background-color:aliceblue
 	
 }
 /*This is specifically for the icon that I don't have yet, but will someday*/
 .icon{
-	width: 5%;
-	margin-right: 50%;
+	width: 10%;
 }
 
 /*This is to keep the header in the center and the icon in the left*/
 h1{
-	margin-right: 35%;
+	font-size: 50px;
+	margin-right: 20%
+}
+
+h2{
+	font-size: 25px;
+}
+li{
+	margin-left: 1%;
+	font-size: 20px;
+	margin-bottom: 1%;
 }
 /*This is the styling for the information in the center of the page*/
 .intelBody{
 	/*This is a temperary number since I don't have information to put on the page*/
 	height: 700px;
+	margin-top: 3%;
+	margin-left: 2%;
+	margin-right: 2%;
+	
 }
 
 /*This styles the main section that contains everything else*/
@@ -30,6 +45,8 @@ body{
 	border: 5px solid black;
 	border-radius: 45px;
 	margin: 10px;
+	box-shadow: 0px 5px 10px 5px #003;
+	background-color:antiquewhite;
 	
 }
 

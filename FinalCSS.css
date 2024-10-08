@@ -15,17 +15,16 @@
 /*This is specifically for the icon*/
 .icon{
 	width: 30%;
-	margin: 1%;
+	padding: 1%;
 	float: left;
-	margin-left: 1%;
 }
 
 /*This is all the settings to keep the email in the correct place*/
 .email{
 	text-align: left;
 	font-size: 50px;
-	margin-bottom: 3%;
-	margin-top: 3%;
+	padding-bottom: .25%;
+	padding-top: 0.25%;
 }
 /*This is to keep the header in the center and the icon in the left*/
 h1{

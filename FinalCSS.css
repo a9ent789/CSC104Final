@@ -8,7 +8,8 @@
 	border-radius: 45px;
 	margin: 10px;
 	box-shadow: 0px 5px 10px 5px #003;
-	background-color:aliceblue
+	background-color:aliceblue;
+	vertical-align: middle;
 	
 }
 /*This is specifically for the icon that I don't have yet, but will someday*/

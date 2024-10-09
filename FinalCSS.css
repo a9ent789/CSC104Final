@@ -27,6 +27,17 @@
 	padding-top: 0.25%;
 }
 /*This is to keep the header in the center and the icon in the left*/
+
+.work{
+	float: left;
+	width: 50%;
+}
+
+.education{
+	float: left;
+	width: 50%;
+	
+}
 h1{
 	
 }
